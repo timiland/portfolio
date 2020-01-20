@@ -1,0 +1,14 @@
+{
+  "name": "modern_portfolio",
+  "version": "1.0.0",
+  "description": "Responsive web portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass --watch scss -o dist/css --recursive"
+  },
+  "author": "Tim Iland",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
